@@ -1,4 +1,4 @@
-# grainrain
+# B2B
 
 ## Project setup
 ```
